@@ -415,4 +415,4 @@ console.log(nazwyZadania); // ['Zadanie 1', 'Zadanie 2', 'Zadanie 3'];
 
 // -------- Dodawanie nowego elementu do HTML -------- //
 
-// -------- Eventy -------- //
+// -------- Eventy -------- ///
