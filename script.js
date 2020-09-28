@@ -605,4 +605,4 @@ console.log(sumaLiczb); // 10
 
 // -------- Dodawanie nowego elementu do HTML -------- //
 
-// -------- Eventy -------- //
+// -------- Eventy -------- ///
